@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696601498 source:c:\users\amanda\onedrive\documentos\programação (projetos)\linguagens de programação\c\relógio digital em c\relógio digital em c\main.c
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+
